@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* learning
+* <span style="color:brown">brown</span>
+* [free](https://www.gnu.org/philosophy/free-sw.html) software
