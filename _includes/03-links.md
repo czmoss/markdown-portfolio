@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+The first site I visited on the WWW was [Nintendo.com](https://web.archive.org/web/19961222145141/http://www.nintendo.com/hallway/index.html).  That link points to a version I remember, accessed through the [Wayback Machine](https://web.archive.org).
